@@ -1,0 +1,36 @@
+.link-itemlist{
+    color: #2196F3;
+}
+.link-itemm{
+    color: #2196F3;
+}
+.link-item{
+   color: #212121;
+}
+.link-itemmy1{
+    color: #757575;
+}
+.section-list{
+    display: block;
+    background-color: #212121;
+    width: 1600px;
+    height: 600px;
+}
+.h1{
+    color: #ffffff;
+    margin: 0 auto;
+    margin-left: 600px;
+    position: relative;
+    top: 300px;
+}
+.button{
+    margin-left: 750px;
+    position: relative;
+    top: 330px;
+}
+.adr{
+    color: #36343498;
+}
+.tel-adr{
+    color: #36343498;
+}
